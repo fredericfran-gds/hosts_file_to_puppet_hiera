@@ -1,0 +1,12 @@
+hello.com:
+  ip: 10.0.0.1
+  host_aliases:
+    - helloworld.com
+pets.com:
+  ip: 10.0.1.1
+animals.com:
+  ip: 10.0.1.2
+  host_aliases:
+    - cats.com
+    - dogs.com
+    - tigers.com
