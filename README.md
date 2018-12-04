@@ -1,4 +1,4 @@
-# Hosts File to Puppet Hiera
+# Hosts File to Puppet Hiera [![Build Status](https://travis-ci.org/fredericfran-gds/hosts_file_to_puppet_hiera.svg?branch=master)](https://travis-ci.org/fredericfran-gds/hosts_file_to_puppet_hiera)
 
 This is a basic utility to convert the `/etc/hosts` file of the Ubuntu server to
 create a Puppet Hiera config file.

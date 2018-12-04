@@ -1,0 +1,5 @@
+10.0.0.1 hello.com helloworld.com
+10.0.1.1 pets.com
+10.0.1.2 animals.com cats.com dogs.com tigers.com
+#this is a comment
+10.0.1.2_line_with_no_host_name
