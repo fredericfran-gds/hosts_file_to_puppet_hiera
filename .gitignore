@@ -3,3 +3,4 @@ carrenza_production_hosts.txt
 carrenza_staging_hosts.txt
 results.yaml
 tests/cmdline/actual_sample_results_file
+virtualenv
